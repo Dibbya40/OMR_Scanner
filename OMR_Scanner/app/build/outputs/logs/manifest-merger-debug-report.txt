@@ -1,0 +1,120 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml
+		INJECTED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml
+		INJECTED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml
+		INJECTED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.SEND_SMS
+ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:6:22-64
+uses-feature#android.hardware.camera
+ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:9:19-67
+uses-feature#android.hardware.camera.front
+ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:10:19-63
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:11:19-73
+application
+ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:13:5-30:27
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Android\.android\build-cache\a12b4b59cd46ea5df76f88873b031209cd318293\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Android\.android\build-cache\c52053ce39101b61f488a5778abfdf7ccde2bc27\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Android\.android\build-cache\407ce6219a2e8973e4ce97459a313e1d8eafa26d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Android\.android\build-cache\527de044a9d8e6cfeb95c67be228ee677a57d994\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Android\.android\build-cache\fdff5cc75ec75fb9d2a41e4c1012e9fe97a5f6ae\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Android\.android\build-cache\7d476c13f30ade7363b4fe68d62ce3ee20073eea\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Android\.android\build-cache\01be2e605a026dc870bd81b18a74019a904739e7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Android\.android\build-cache\f54dcab0f6d1565b0977c2af8dd44759ebb030b5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Android\.android\build-cache\5100d4c67f00ab3329593ad42f9bba0cc32b16a1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Android\.android\build-cache\61a402fa6f3ac05c7ab4451fcee82a26d88b3482\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:16:9-36
+	android:supportsRtl
+		ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:18:9-35
+	android:roundIcon
+		ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:17:9-40
+	android:allowBackup
+		ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.example.shovon5795.omr_scanner.MainActivity
+ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:20:9-50
+	android:name
+		ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:20:19-47
+activity#com.example.shovon5795.omr_scanner.resultActivity
+ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:21:9-52
+	android:name
+		ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:21:19-49
+activity#com.example.shovon5795.omr_scanner.HomeActivity
+ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:22:9-29:20
+	android:name
+		ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:23:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [OMR_Scanner:openCVLibrary331:unspecified] F:\1407050\OMR_Scanner\openCVLibrary331\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Android\.android\build-cache\a12b4b59cd46ea5df76f88873b031209cd318293\output\AndroidManifest.xml:21:5-23:64
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Android\.android\build-cache\c52053ce39101b61f488a5778abfdf7ccde2bc27\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Android\.android\build-cache\407ce6219a2e8973e4ce97459a313e1d8eafa26d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Android\.android\build-cache\527de044a9d8e6cfeb95c67be228ee677a57d994\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Android\.android\build-cache\fdff5cc75ec75fb9d2a41e4c1012e9fe97a5f6ae\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Android\.android\build-cache\7d476c13f30ade7363b4fe68d62ce3ee20073eea\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Android\.android\build-cache\01be2e605a026dc870bd81b18a74019a904739e7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Android\.android\build-cache\f54dcab0f6d1565b0977c2af8dd44759ebb030b5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Android\.android\build-cache\5100d4c67f00ab3329593ad42f9bba0cc32b16a1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Android\.android\build-cache\61a402fa6f3ac05c7ab4451fcee82a26d88b3482\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Android\.android\build-cache\a12b4b59cd46ea5df76f88873b031209cd318293\output\AndroidManifest.xml:23:9-61
+	android:targetSdkVersion
+		INJECTED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml
+		INJECTED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml
+		INJECTED from F:\1407050\OMR_Scanner\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Android\.android\build-cache\a12b4b59cd46ea5df76f88873b031209cd318293\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Android\.android\build-cache\c52053ce39101b61f488a5778abfdf7ccde2bc27\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Android\.android\build-cache\407ce6219a2e8973e4ce97459a313e1d8eafa26d\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Android\.android\build-cache\527de044a9d8e6cfeb95c67be228ee677a57d994\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Android\.android\build-cache\fdff5cc75ec75fb9d2a41e4c1012e9fe97a5f6ae\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Android\.android\build-cache\7d476c13f30ade7363b4fe68d62ce3ee20073eea\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Android\.android\build-cache\01be2e605a026dc870bd81b18a74019a904739e7\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Android\.android\build-cache\f54dcab0f6d1565b0977c2af8dd44759ebb030b5\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Android\.android\build-cache\5100d4c67f00ab3329593ad42f9bba0cc32b16a1\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Android\.android\build-cache\a12b4b59cd46ea5df76f88873b031209cd318293\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Android\.android\build-cache\a12b4b59cd46ea5df76f88873b031209cd318293\output\AndroidManifest.xml:26:9-47

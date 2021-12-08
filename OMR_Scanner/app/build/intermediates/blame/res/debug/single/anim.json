@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\1407050\\OMR_Scanner\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a12b4b59cd46ea5df76f88873b031209cd318293\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\1407050\\OMR_Scanner\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a12b4b59cd46ea5df76f88873b031209cd318293\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\1407050\\OMR_Scanner\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a12b4b59cd46ea5df76f88873b031209cd318293\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\1407050\\OMR_Scanner\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a12b4b59cd46ea5df76f88873b031209cd318293\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\1407050\\OMR_Scanner\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a12b4b59cd46ea5df76f88873b031209cd318293\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\1407050\\OMR_Scanner\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a12b4b59cd46ea5df76f88873b031209cd318293\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\1407050\\OMR_Scanner\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a12b4b59cd46ea5df76f88873b031209cd318293\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\1407050\\OMR_Scanner\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a12b4b59cd46ea5df76f88873b031209cd318293\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\1407050\\OMR_Scanner\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a12b4b59cd46ea5df76f88873b031209cd318293\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\1407050\\OMR_Scanner\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a12b4b59cd46ea5df76f88873b031209cd318293\\output\\res\\anim\\abc_popup_enter.xml"
+    }
+]

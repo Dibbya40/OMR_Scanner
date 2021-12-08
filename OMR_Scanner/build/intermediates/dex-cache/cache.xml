@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\1407050\OMR_Scanner\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\1407050\OMR_Scanner\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_559d2e716c70b12a5ccfa5f3aedb0ff07e4da972\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\1407050\OMR_Scanner\openCVLibrary331\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="808e23f966cbdf18073fabd9033e3fccef405687">
+        <dex dex="F:\1407050\OMR_Scanner\app\build\intermediates\pre-dexed\debug\classes_76c9ec25c4830ec6d83d3584f145924a8c07a3fd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\1407050\OMR_Scanner\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e8b504509348a779da3a49427c778fd34e23ebc5">
+        <dex dex="F:\1407050\OMR_Scanner\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cf2dda549d3c1f0435fb0f66cce8ba1bea0b3109\classes.dex" />
+    </item>
+
+</items>

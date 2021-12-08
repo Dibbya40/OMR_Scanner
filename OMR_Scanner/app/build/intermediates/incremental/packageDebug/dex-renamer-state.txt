@@ -1,0 +1,7 @@
+#Wed Dec 13 02:58:24 BDT 2017
+base.0=F\:\\1407050\\OMR_Scanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_cf2dda549d3c1f0435fb0f66cce8ba1bea0b3109
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\1407050\\OMR_Scanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_559d2e716c70b12a5ccfa5f3aedb0ff07e4da972\\classes.dex
+base.1=F\:\\1407050\\OMR_Scanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_559d2e716c70b12a5ccfa5f3aedb0ff07e4da972
+file.0=F\:\\1407050\\OMR_Scanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_cf2dda549d3c1f0435fb0f66cce8ba1bea0b3109\\classes.dex
